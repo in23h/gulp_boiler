@@ -22,14 +22,17 @@
   "devDependencies": {
     "babel-preset-env": "^1.6.0",
     "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-babel": "^6.1.2",
+    "gulp-cache": "^0.4.6",
     "gulp-if": "^2.0.2",
     "gulp-imagemin": "^3.3.0",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-uglify": "^3.0.0",
     "gulp-uncss": "^1.0.6",
-    "gulp-useref": "^3.1.2"
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^2.0.0"
   }
 }
